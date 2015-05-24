@@ -2,8 +2,7 @@ USA Tour Competition | Second Trip: Houston-Texas | Piper Seneca II: KOKC - KIAH
 --------------------------------------------------------------------------------------------------------------------------
 
 
-SECOND TRIP:
-------------
+SECOND TRIP:<br>
 Departure from Will Rogers International Airport (KOKC) - Oklahoma City;
 OKlahoma <br>
 ATC will be serving this departing airport SUN SEP02ND 17:00-18:00 UTC
@@ -25,3 +24,4 @@ half of these will be cleared to land at KIAH, whereas the other half
 will be rerouted to KHOU and requested to contact KHOU briefly.
 All pilots rerouted to KHOU are cleared to land there.
 ***********************************************************************************
+</pre>
