@@ -1,6 +1,5 @@
-USA Tour Competition | 7th Trip: Indianapolis - Indiana | Twin engined
-airliners : KCYS - KIND | SUN NOV 18th 18:00-21:00 UTC
-------------------------------------------------------------------------------------------------------------------------------------
+USA Tour Competition | 7th Trip: Indianapolis - Indiana | Twin engined airliners : KCYS - KIND | SUN NOV 18th 18:00-21:00 UTC
+----------------------------------------------------------------------------------------------------------------------------
 
 
 SEVENTH TRIP:<br>
