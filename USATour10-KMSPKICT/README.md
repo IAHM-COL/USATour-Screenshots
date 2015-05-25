@@ -1,7 +1,7 @@
-SA TOUR Competition | 10th Trip : Wichita - Kansas | Civilian multi-engine propellers with cruising above 200 KIAS : KMSP-KICT | SUN JAN 27th 16:30-19:30 UTC
+USA TOUR Competition | 10th Trip : Wichita - Kansas | Civilian multi-engine propellers with cruising above 200 KIAS : KMSP-KICT | SUN JAN 27th 16:30-19:30 UTC
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<pre>
+
 TENTH TRIP<br>
 Departing from Minneapolis/Saint Paul Wold Chamberlain International (KMSP); Minneapolis, Minnesota<br>
 Arriving to Wichita Mid-Continent Airport (KICT); Wichita, Kansas
