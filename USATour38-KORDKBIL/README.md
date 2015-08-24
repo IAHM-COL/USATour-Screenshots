@@ -102,7 +102,7 @@ Sincere thanks to Michat for offering the intercom room and channels. This will 
 <pre>
 server: mumble.allfex.org
 Room: USA Tour
-<pre>
+</pre>
 
 To install and prepare the mumble (any OS), see here:
 http://mumble.sourceforge.net/Main_Page
