@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>KPDX-KOMA</name>
+    <rtept lat="45.588708" lon="-122.596869">
+      <name>KPDX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="45.120858" lon="-121.843200">
+      <name>RATZZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="44.984022" lon="-121.203417">
+      <name>GASHE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="44.852644" lon="-120.606781">
+      <name>COVBO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="44.809756" lon="-120.415892">
+      <name>ROAMS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="44.648389" lon="-119.711639">
+      <name>IMB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.552806" lon="-116.192139">
+      <name>BOI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.489781" lon="-115.836017">
+      <name>AROWS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.465842" lon="-115.702647">
+      <name>HESGO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.445806" lon="-115.591600">
+      <name>EREXE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.361842" lon="-115.133794">
+      <name>DERSO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.256444" lon="-114.574603">
+      <name>SOLDE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.206431" lon="-114.315039">
+      <name>PRESN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.163203" lon="-114.092906">
+      <name>REAPS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.127811" lon="-113.913292">
+      <name>MENIN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="43.050239" lon="-113.524761">
+      <name>BETRE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.948347" lon="-113.025983">
+      <name>KNURL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.938731" lon="-112.979444">
+      <name>JANIN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.934203" lon="-112.957608">
+      <name>TANOY</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.916053" lon="-112.870294">
+      <name>SICOY</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.870389" lon="-112.652222">
+      <name>PIH</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.590222" lon="-109.015333">
+      <name>OCS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.894167" lon="-103.482028">
+      <name>BFF</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.470500" lon="-98.686917">
+      <name>ONL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.303167" lon="-95.894056">
+      <name>KOMA</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
