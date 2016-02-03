@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>KOMA-KMKE</name>
+    <rtept lat="41.303167" lon="-95.894056">
+      <name>KOMA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.167167" lon="-95.736861">
+      <name>OVR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.214956" lon="-95.389197">
+      <name>EYNOR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.267325" lon="-94.997850">
+      <name>PSFIC</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.289800" lon="-94.828319">
+      <name>LYMAN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.337228" lon="-94.457919">
+      <name>UKIPE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.364817" lon="-94.238939">
+      <name>BRIDJ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.405769" lon="-93.911281">
+      <name>MIDLE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.364817" lon="-94.238939">
+      <name>BRIDJ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.405769" lon="-93.911281">
+      <name>MIDLE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.437611" lon="-93.648556">
+      <name>DSM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.468556" lon="-92.965586">
+      <name>SINGR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.482122" lon="-92.640989">
+      <name>NASAL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.508581" lon="-91.930200">
+      <name>WELMA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.518972" lon="-91.613250">
+      <name>IOW</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.646886" lon="-91.292856">
+      <name>REZIE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.776136" lon="-90.962511">
+      <name>BILOX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.935525" lon="-90.556886">
+      <name>LOTTE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.159031" lon="-90.043853">
+      <name>WACKS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.290686" lon="-89.737450">
+      <name>LENAS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.440764" lon="-89.384192">
+      <name>DAVIS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.467544" lon="-89.320683">
+      <name>PAPOW</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.558000" lon="-89.105250">
+      <name>JVL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.644267" lon="-88.638778">
+      <name>JAYBE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.684022" lon="-88.419797">
+      <name>TRUDO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.704878" lon="-88.303869">
+      <name>VEENA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.733983" lon="-88.140925">
+      <name>WIPED</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.762167" lon="-87.814722">
+      <name>HRK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.883819" lon="-87.759667">
+      <name>LIIME</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.946944" lon="-87.897056">
+      <name>KMKE</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
