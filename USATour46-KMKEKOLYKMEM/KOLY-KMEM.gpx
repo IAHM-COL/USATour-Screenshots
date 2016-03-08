@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>KOLY-KMEM</name>
+    <rtept lat="38.721828" lon="-88.176433">
+      <name>KOLY</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.380167" lon="-88.409361">
+      <name>FWC</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.811256" lon="-88.550258">
+      <name>HSB</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.845056" lon="-89.356750">
+      <name>CHQ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.589667" lon="-89.587333">
+      <name>COO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.061464" lon="-90.071617">
+      <name>ME2</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.042417" lon="-89.976667">
+      <name>KMEM</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

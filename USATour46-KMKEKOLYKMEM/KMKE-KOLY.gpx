@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>KMKE-KOLY</name>
+    <rtept lat="42.946944" lon="-87.897056">
+      <name>KMKE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.682556" lon="-87.899472">
+      <name>RA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.055936" lon="-88.007792">
+      <name>OR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.017917" lon="-87.903722">
+      <name>IK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.026417" lon="-87.953083">
+      <name>HMJ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.442500" lon="-88.173472">
+      <name>MT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.718222" lon="-88.172639">
+      <name>OLY</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.721828" lon="-88.176433">
+      <name>KOLY</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
