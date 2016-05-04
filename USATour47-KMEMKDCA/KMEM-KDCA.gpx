@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>KMEM-KDCA</name>
+    <rtept lat="35.042417" lon="-89.976667">
+      <name>KMEM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.024653" lon="-89.090419">
+      <name>PITEW</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="35.975594" lon="-85.870061">
+      <name>BAZOO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.422439" lon="-84.780358">
+      <name>GLAZR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="36.986767" lon="-83.227878">
+      <name>IBATE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.935897" lon="-80.684800">
+      <name>GBERG</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.423211" lon="-79.290600">
+      <name>SEALZ</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.851444" lon="-77.037722">
+      <name>KDCA</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
